@@ -1,0 +1,57 @@
+/* Layout Styles */
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(241, 227, 227);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    border: 2px solid white;
+    position: relative;
+}
+
+.header {
+    height: 500px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.leftmenu, .rightmenu {
+    width: 100px;
+    padding-top: 20px;
+}
+
+.mainbody {
+    padding: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+}
+
+.subheader {
+    float: right;
+    margin-right: 20px;
+}
+
+.resumelistheading {
+    margin-top: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+}
